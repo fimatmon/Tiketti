@@ -1,2 +1,2 @@
 # Tiketti
-Light weight ticket system
+A light weight ticket system
