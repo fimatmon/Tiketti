@@ -1,2 +1,2 @@
 # Tiketti
-A light weight ticket system
+Java based and a light weight ticket system
